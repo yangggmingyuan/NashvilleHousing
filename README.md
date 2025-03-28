@@ -1,2 +1,1 @@
-# NashvilleHousing-cleanup
-I  have done data cleanup for this dataset
+# for this datasets i have only uploaded the datasets and sql query on rwpository, tommorow i will update more.
